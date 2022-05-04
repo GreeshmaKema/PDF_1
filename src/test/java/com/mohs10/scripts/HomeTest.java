@@ -38,7 +38,7 @@ import com.mohs10.reuse.Home;
 	@Test
 	public void RegisterPageTestCase() throws Exception {
 			  Home hm = new Home();
-			  hm.Register("Manisha", "Koyla", "manishkoyla@hotmail.com", "Test@444", "Test@444");
+			  hm.Register("Manisha", "Koylaa", "manishkoyla1@hotmail.com", "Test@444", "Test@444");
 			  Thread.sleep(5000);
 		  }
 	

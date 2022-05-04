@@ -7,12 +7,12 @@ import com.moh10.base.StartBrowser;
 import com.mohs10.actiondriver.Action;
 import com.mohs10.or.HomePage;
 
-	public class Home {
+	public class CommonFuns {
 		
 		public Action aDriver;
 		public WebDriver driver;
 		
-		public Home()
+		public CommonFuns()
 		{
 			aDriver = new Action();
 			driver = StartBrowser.driver;

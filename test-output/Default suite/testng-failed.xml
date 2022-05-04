@@ -7,9 +7,7 @@
         <methods>
           <include name="generateReport"/>
           <include name="beforeClass"/>
-          <include name="NewsbtnTestCase"/>
           <include name="methodName"/>
-          <include name="LoginPageTestCase"/>
           <include name="afterClass"/>
           <include name="RegisterPageTestCase"/>
         </methods>

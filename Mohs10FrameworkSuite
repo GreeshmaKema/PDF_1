@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Mohs10 Framework Test Suite">
+	
+	<test name="Home Page Test Case">
+		<classes>
+			<class name="com.mohs10.scripts.HomeTest"></class>
+		</classes>
+	</test>
+
+</suite>
