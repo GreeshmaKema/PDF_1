@@ -8,6 +8,8 @@
             <class name="com.mohs10.scripts.HomeTest"/>
     
             <class name="com.mohs10.scripts.UserRegister"/>
+          
+          <class name="com.mohs10.scripts.Html_Pdf"/>
         </classes>
     </test>
 </suite>
