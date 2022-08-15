@@ -3,7 +3,11 @@
 	
 	<test name="Home Page Test Case">
 		<classes>
-			<class name="com.mohs10.scripts.HomeTest"></class>
+			
+			<class name="com.mohs10.scripts.Autoit_test"></class>
+			<class name="com.mohs10.scripts.Captcha_Test"></class>
+			<class name="com.mohs10.scripts.Html_Pdf"></class>
+			<class name="com.mohs10.scripts.Outlook_Test"></class>
 		</classes>
 	</test>
 

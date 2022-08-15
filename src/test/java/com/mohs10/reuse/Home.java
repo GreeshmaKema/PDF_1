@@ -7,8 +7,8 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 
+import com.moh10.base.Action;
 import com.moh10.base.StartBrowser;
-import com.mohs10.actiondriver.Action;
 import com.mohs10.or.HomePage;
 /**
  * @author Deepika
@@ -39,6 +39,7 @@ public class Home extends StartBrowser
 					aDriver.type(HomePage.txtConfirmpassword, ConfirmPwd, "confirm password text box");
 					aDriver.click(HomePage.btnRegister, "Register button");
 					aDriver.click(HomePage.btnContinue, "Continue button");
+					
 				}
 				
 			//Login process

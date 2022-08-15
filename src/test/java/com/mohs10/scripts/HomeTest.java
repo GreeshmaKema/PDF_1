@@ -8,7 +8,7 @@ import com.mohs10.reuse.Home;
 	public class HomeTest extends StartBrowser{
 	
 	//Clicking on Categories links #4
-	@Test
+	/*@Test
 	public void CategoriesTest() throws Exception {
 		Home cat = new Home();
 	    cat.Categories();
@@ -33,13 +33,6 @@ import com.mohs10.reuse.Home;
 	    blog.Blogbtn();
 		Thread.sleep(5000);
 	}
-	
-	//Registration of new user #6
-	@Test
-	public void RegisterPageTestCase() throws Exception {
-			  Home hm = new Home();
-			  hm.Register("Manisha", "Koylaa", "manishkoyla1@hotmail.com", "Test@444", "Test@444");
-			  Thread.sleep(5000);
 		  }
 	
 	//Testing with invalid inputs #2
@@ -49,7 +42,7 @@ import com.mohs10.reuse.Home;
 			  hm1.invalidLogIn("Invalidlogininputs@gmail.com", "Test@1114");
 			  Thread.sleep(5000);
 	
-}
+}*/
 	//Testing with Valid inputs #3
 	@Test
 		  public void LoginPageTestCase() throws Exception {
